@@ -20,16 +20,15 @@ namespace CalculadoraAppTec
                 try
                 {
                     Console.WriteLine(" - - - - - - - - - - MENU- - - - - - - - -");
-                    Console.WriteLine("1. Sumar dos numeros");
-                    Console.WriteLine("2. Restar dos numeros");
+                    Console.WriteLine("1. Sumar");
+                    Console.WriteLine("2. Restar");
                     Console.WriteLine("3. Multiplicar");
                     Console.WriteLine("4. Dividir");
                     Console.WriteLine("5. Raiz Cuadrada");
                     Console.WriteLine("6. Potencia");
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
-                    Console.WriteLine("9. Êxponente");
-                    Console.WriteLine("10. Salir");
+                    Console.WriteLine("9. Salir");
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
