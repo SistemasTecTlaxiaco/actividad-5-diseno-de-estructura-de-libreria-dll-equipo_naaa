@@ -10,7 +10,7 @@ namespace BibliotecaCalculadoraAppTec
     {
         public static double Sumar(double uno, double dos) //Mètodo para la suma de dos nùmeros 
         {
-            return uno + dos;
+            return uno + dos; //un numero mas otro numero 
         }
 
         public static double Multiplicar(double uno, double dos) //Método para la multiplicación de dos números 
