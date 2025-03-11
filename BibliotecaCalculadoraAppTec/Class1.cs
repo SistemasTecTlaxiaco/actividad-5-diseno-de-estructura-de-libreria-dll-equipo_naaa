@@ -60,5 +60,10 @@ namespace BibliotecaCalculadoraAppTec
             return 1 / num; // 1 dividido entre un numero dado da como resultado su valor fraccional 
         }
 
+        public static double Exp(double num, double exp) //Método para multiplicar un número *10 elevado a un exponente 
+        {
+            return num * Math.Pow(10, exp); //Se utiliz´´o la función math.pow para multiplicarlo por el numero ingresado 
+        } 
+
     }
 }
