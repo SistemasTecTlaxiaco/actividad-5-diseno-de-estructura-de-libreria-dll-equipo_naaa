@@ -55,9 +55,9 @@ namespace LibreriaAppCalculadora
         {
             return (num1 / total) * 100; //num 1 es la parcialidad de total, por lo cual se calcula que porcentaje representa num1 de total 
         }
-        public static double Fraccion(double num) //Método fraccional 
+        public static double Fraccion(double num1) //Método fraccional 
         {
-            return 1 / num; // 1 dividido entre un numero dado da como resultado su valor fraccional 
+            return 1 / num1; // 1 dividido entre un numero dado da como resultado su valor fraccional 
         }
     }
 }
