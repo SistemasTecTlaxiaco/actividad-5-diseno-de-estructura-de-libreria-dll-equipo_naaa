@@ -1,6 +1,0 @@
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos Topicos\LibreriaAppCalculadora\LibreriaAppCalculadora\bin\Debug\LibreriaAppCalculadora.dll
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos Topicos\LibreriaAppCalculadora\LibreriaAppCalculadora\bin\Debug\LibreriaAppCalculadora.pdb
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos Topicos\LibreriaAppCalculadora\LibreriaAppCalculadora\obj\Debug\LibreriaAppCalculadora.csproj.AssemblyReference.cache
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos Topicos\LibreriaAppCalculadora\LibreriaAppCalculadora\obj\Debug\LibreriaAppCalculadora.csproj.CoreCompileInputs.cache
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos Topicos\LibreriaAppCalculadora\LibreriaAppCalculadora\obj\Debug\LibreriaAppCalculadora.dll
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyectos Topicos\LibreriaAppCalculadora\LibreriaAppCalculadora\obj\Debug\LibreriaAppCalculadora.pdb
