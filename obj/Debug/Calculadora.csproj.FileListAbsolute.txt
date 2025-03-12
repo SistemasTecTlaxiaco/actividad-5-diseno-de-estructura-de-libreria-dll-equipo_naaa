@@ -1,0 +1,10 @@
+C:\Users\Angel NJ\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Angel NJ\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Angel NJ\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Angel NJ\source\repos\ConsoleApp1\bin\Debug\Calculeitor.dll
+C:\Users\Angel NJ\source\repos\ConsoleApp1\bin\Debug\Calculeitor.pdb
+C:\Users\Angel NJ\source\repos\ConsoleApp1\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Angel NJ\source\repos\ConsoleApp1\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Angel NJ\source\repos\ConsoleApp1\obj\Debug\Calculad.310BED7B.Up2Date
+C:\Users\Angel NJ\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Angel NJ\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

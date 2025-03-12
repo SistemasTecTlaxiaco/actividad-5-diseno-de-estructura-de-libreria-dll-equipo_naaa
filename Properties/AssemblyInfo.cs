@@ -4,12 +4,21 @@ using System.Runtime.InteropServices;
 
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
+<<<<<<< HEAD
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("Calculeitor")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Calculeitor")]
+=======
+// asociada a un ensamblado.
+[assembly: AssemblyTitle("ConsoleApp1")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ConsoleApp1")]
+>>>>>>> 3f803b2 (Agregar Proyecto C)
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +29,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
+<<<<<<< HEAD
 [assembly: Guid("6df79d23-08ef-4317-b583-ac56947d2f43")]
+=======
+[assembly: Guid("d22fdb7f-4570-4ea2-9db2-b56186d917f4")]
+>>>>>>> 3f803b2 (Agregar Proyecto C)
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
