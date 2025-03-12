@@ -1,0 +1,6 @@
+C:\Users\Angel NJ\source\repos\Calculeitor\bin\Debug\Calculeitor.dll
+C:\Users\Angel NJ\source\repos\Calculeitor\bin\Debug\Calculeitor.pdb
+C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\calculadoratectlaxiaco.csproj.AssemblyReference.cache
+C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
+C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\Calculeitor.dll
+C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\Calculeitor.pdb
