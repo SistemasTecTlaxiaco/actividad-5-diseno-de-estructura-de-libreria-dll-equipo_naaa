@@ -8,28 +8,28 @@ namespace calculadoratectlaxiaco
 {
     public class Class1
     {
-        public static double Sumar(double uno, double dos)
+        public static double Sumar(double uno, double dos)//Método para la suma de dos números
         {
             return uno + dos;
         }
 
-        public static double Multiplicar(double uno, double dos)
+        public static double Multiplicar(double uno, double dos)//Método para la multiplicación de dos números
         {
             return uno * dos;
         }
 
-        public static double Restar(double uno, double dos)
+        public static double Restar(double uno, double dos)//Método para la resta de dos números
         {
             return uno - dos;
         }
 
-        public static double Dividir(double numerador, double denominador)
+        public static double Dividir(double numerador, double denominador)//Método para la división de dos números
         {
             try
             {
                 if (denominador == 0)
                 {
-                    throw new DivideByZeroException();
+                    throw new DivideByZeroException();//Agregamos una excepción en casos donde el denominador sea 0 y evitar errores
                 }
                 double result = numerador / denominador;
                 Console.WriteLine("El resultado de la division es: " + result);
@@ -43,27 +43,27 @@ namespace calculadoratectlaxiaco
             }
         }
 
-        public static double RaizCuadrada(double n)
+        public static double RaizCuadrada(double n)//Método para el calculo de la raiz cuadrada de un número por medio de la función math.sqrt
         {
             return Math.Sqrt(n);
         }
 
-        public static double Potencia(double num, double exponente)
+        public static double Potencia(double num, double exponente)//Método para elevar un número a una potencia
         {
             return Math.Pow(num, exponente);
         }
 
-        public static double Porcentaje(double num1, double total)
+        public static double Porcentaje(double num1, double total)//Método para calcular el porcenjate de un numero dependiendo de otro
         {
             return (num1 / total) * 100;
         }
 
-        public static double Fraccion(double num)
+        public static double Fraccion(double num)//Método para el calculo de una fracción dependiendo de un número
         {
             return 1 / num;
         }
 
-        public static double LogaritmoNatural(double num)
+        public static double LogaritmoNatural(double num) //Método para el calculo de un logaritmo natural de un numero 
         {
             if (num <= 0)
             {
@@ -71,6 +71,10 @@ namespace calculadoratectlaxiaco
                 return double.NaN;
             }
             return Math.Log(num);
+        }
+        public static double Exp(double num, double exp) //Método para multiplicar un número *10 elevado a un exponente 
+        {
+            return num * Math.Pow(10, exp); //Se utilizó la función math.pow para multiplicarlo por el numero ingresado 
         }
     }
 }

@@ -4,3 +4,7 @@ C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\calculadoratectlaxiaco.cspr
 C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
 C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\Calculeitor.dll
 C:\Users\Angel NJ\source\repos\Calculeitor\obj\Debug\Calculeitor.pdb
+C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.AssemblyReference.cache
+C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.dll
+C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.pdb
