@@ -29,7 +29,11 @@ namespace Consola
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
                     Console.WriteLine("9. Logaritmo Natural (ln)");
+<<<<<<< HEAD
                     Console.WriteLine("10. Exponencial (x10)");
+=======
+                    Console.WriteLine("10.Numero al Cuadrado");
+>>>>>>> 0668c15cf0178213cab56001c261c7ed3ee3c0e8
                     Console.WriteLine("11. Salir");
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
@@ -74,8 +78,13 @@ namespace Consola
                             Console.WriteLine("El resultado del Logaritmo Natural es: " + calculadoratectlaxiaco.Class1.LogaritmoNatural(num0));
                             break;
                         case 10:
+<<<<<<< HEAD
                             teclado2();
                             Console.WriteLine("El resultado del Exponencial es: " + calculadoratectlaxiaco.Class1.Sumar(num1, num2));
+=======
+                            teclado0();
+                            Console.WriteLine("el cuadrado del numero es: " + calculadoratectlaxiaco.Class1.Cuadrado(num0));
+>>>>>>> 0668c15cf0178213cab56001c261c7ed3ee3c0e8
                             break;
                         case 11:
                             Console.WriteLine("Has elegido salir de la aplicación");

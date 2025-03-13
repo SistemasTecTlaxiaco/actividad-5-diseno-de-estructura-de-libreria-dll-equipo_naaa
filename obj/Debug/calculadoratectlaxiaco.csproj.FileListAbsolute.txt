@@ -8,3 +8,7 @@ C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-l
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.dll
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.pdb
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.AssemblyReference.cache
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.dll
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.pdb

@@ -12,3 +12,7 @@ C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-l
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\ConsoleApp1.exe
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\ConsoleApp1.pdb
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\ConsoleApp1.exe
+D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\ConsoleApp1.pdb
