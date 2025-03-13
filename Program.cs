@@ -94,7 +94,6 @@ namespace Consola
             Console.WriteLine("Introduzca un numero");
             num0 = double.Parse(Console.ReadLine());
         }
-
         private static void teclado1()
         {
             Console.WriteLine("Introduzca el primer numero");
