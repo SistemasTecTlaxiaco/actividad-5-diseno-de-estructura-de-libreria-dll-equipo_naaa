@@ -80,5 +80,9 @@ namespace calculadoratectlaxiaco
         {
             return num * num;
         }
+        public static double RaizCubica(double uno)//metodo para calcular raiz cubica
+        {
+            return Math.Pow(uno, 1.0 / 3.0);
+        }
     }
 }

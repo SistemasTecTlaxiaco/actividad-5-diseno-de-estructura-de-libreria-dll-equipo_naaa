@@ -14,3 +14,9 @@ D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-di
 D:\CLASES ACTUALES 🥴\4 SEMESTRE\programacion\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.pdb
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\bin\Debug\Calculeitor.dll
 C:\Users\lopez\Documents\CalculadoraAppTec\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\bin\Debug\Calculeitor.pdb
+C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\ClonCalculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\bin\Debug\Calculeitor.dll
+C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\ClonCalculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\bin\Debug\Calculeitor.pdb
+C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\ClonCalculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.AssemblyReference.cache
+C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\ClonCalculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
+C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\ClonCalculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.dll
+C:\Users\abeor\Desktop\OneDrive\Documentos\01TECNOLOGICO\TOPICOS AVANZADAS\ClonCalculadora\actividad-5-diseno-de-estructura-de-libreria-dll-equipo_naaa\obj\Debug\Calculeitor.pdb
