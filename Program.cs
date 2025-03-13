@@ -1,29 +1,3 @@
-﻿/*using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Calculeitor;
-
-namespace ConsoleApp1
-{
-    internal class Program
-    {
-
-        private static double num1 = 0, num2 = 0;
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Introduzca el primer número:");
-            double num1 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Introduzca el segundo número:");
-            double num2 = double.Parse(Console.ReadLine());
-            double resultado = calculadoratectlaxiacoes(num1, num2);
-            Console.WriteLine("El resultado de la operación suma es: " + resultado);
-        }
-    }
-}
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
