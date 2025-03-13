@@ -31,7 +31,8 @@ namespace Consola
                     Console.WriteLine("9. Logaritmo Natural (ln)");
                     Console.WriteLine("10. Exponencial");
                     Console.WriteLine("11. Numero al cuadrado");
-                    Console.WriteLine("12. Salir");
+                    Console.WriteLine("12. Raiz cubica");
+                    Console.WriteLine("13. Salir");
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
@@ -83,6 +84,10 @@ namespace Consola
                             Console.WriteLine("El resultado del cuadrado de un numero es: " + calculadoratectlaxiaco.Class1.Cuadrado(num0));
                             break;
                         case 12:
+                            teclado0();
+                            Console.WriteLine("El resultado del la raiz cubica: " + calculadoratectlaxiaco.Class1.RaizCubica(num0));
+                            break;
+                        case 13:
                             Console.WriteLine("Has elegido salir de la aplicación");
                             Environment.Exit(1);
                             Salir = true;
