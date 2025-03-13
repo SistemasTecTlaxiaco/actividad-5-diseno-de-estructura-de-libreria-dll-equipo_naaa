@@ -29,7 +29,8 @@ namespace Consola
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
                     Console.WriteLine("9. Logaritmo Natural (ln)");
-                    Console.WriteLine("10. Salir");
+                    Console.WriteLine("10. Exponencial (x10)");
+                    Console.WriteLine("11. Salir");
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
@@ -57,11 +58,11 @@ namespace Consola
                             Console.WriteLine("El resultado de la Raiz cuadrada es: " + calculadoratectlaxiaco.Class1.RaizCuadrada(num0));
                             break;
                         case 6:
-                            teclado1();
+                            teclado2();
                             Console.WriteLine("El resultado de la Potencia es: " + calculadoratectlaxiaco.Class1.Potencia(num1, num2));
                             break;
                         case 7:
-                            teclado1();
+                            teclado3();
                             Console.WriteLine("El resultado del porcentaje es: " + calculadoratectlaxiaco.Class1.Porcentaje(num1, num2));
                             break;
                         case 8:
@@ -73,6 +74,10 @@ namespace Consola
                             Console.WriteLine("El resultado del Logaritmo Natural es: " + calculadoratectlaxiaco.Class1.LogaritmoNatural(num0));
                             break;
                         case 10:
+                            teclado2();
+                            Console.WriteLine("El resultado del Exponencial es: " + calculadoratectlaxiaco.Class1.Sumar(num1, num2));
+                            break;
+                        case 11:
                             Console.WriteLine("Has elegido salir de la aplicación");
                             Environment.Exit(1);
                             Salir = true;
@@ -99,6 +104,20 @@ namespace Consola
             Console.WriteLine("Introduzca el primer numero");
             num1 = double.Parse(Console.ReadLine());
             Console.WriteLine("Introduzca el segundo numero");
+            num2 = double.Parse(Console.ReadLine());
+        }
+        private static void teclado2()
+        {
+            Console.WriteLine("Introduzca el numero");
+            num1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Introduzca el valor de la potencia (Exponente)");
+            num2 = double.Parse(Console.ReadLine());
+        }
+        private static void teclado3()
+        {
+            Console.WriteLine("Introduzca el valor parcial");
+            num1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Introduzca el valor total");
             num2 = double.Parse(Console.ReadLine());
         }
     }
