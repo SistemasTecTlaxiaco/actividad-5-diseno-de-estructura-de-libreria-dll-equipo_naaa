@@ -75,12 +75,12 @@ namespace Consola
                             Console.WriteLine("El resultado del Logaritmo Natural es: " + calculadoratectlaxiaco.Class1.LogaritmoNatural(num0));
                             break;
                         case 10:
-                            teclado0();
-                            Console.WriteLine("El resultado del exponenciales: " + calculadoratectlaxiaco.Class1.Sumar(num1,num2));
+                            teclado2();
+                            Console.WriteLine("El resultado del exponencial es:" + calculadoratectlaxiaco.Class1.Exp(num1,num2));
                             break;
                         case 11:
                             teclado0();
-                            Console.WriteLine("El resultado del cuadrado de un numero es: " + calculadoratectlaxiaco.Class1.RaizCuadrada(num0));
+                            Console.WriteLine("El resultado del cuadrado de un numero es: " + calculadoratectlaxiaco.Class1.Cuadrado(num0));
                             break;
                         case 12:
                             Console.WriteLine("Has elegido salir de la aplicación");
