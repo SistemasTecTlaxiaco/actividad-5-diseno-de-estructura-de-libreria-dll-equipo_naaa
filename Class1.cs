@@ -76,5 +76,9 @@ namespace calculadoratectlaxiaco
         {
             return num * Math.Pow(10, exp); //Se utilizó la función math.pow para multiplicarlo por el numero ingresado 
         }
+        public static double Cuadrado(double num) // Metodo para poner un numero al cuadrado
+        {
+            return num * num;
+        }
     }
 }

@@ -29,7 +29,8 @@ namespace Consola
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
                     Console.WriteLine("9. Logaritmo Natural (ln)");
-                    Console.WriteLine("10. Salir");
+                    Console.WriteLine("10.Numero al Cuadrado");
+                    Console.WriteLine("11. Salir");
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
@@ -73,6 +74,10 @@ namespace Consola
                             Console.WriteLine("El resultado del Logaritmo Natural es: " + calculadoratectlaxiaco.Class1.LogaritmoNatural(num0));
                             break;
                         case 10:
+                            teclado0();
+                            Console.WriteLine("el cuadrado del numero es: " + calculadoratectlaxiaco.Class1.Cuadrado(num0));
+                            break;
+                        case 11:
                             Console.WriteLine("Has elegido salir de la aplicación");
                             Environment.Exit(1);
                             Salir = true;
